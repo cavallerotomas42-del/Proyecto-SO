@@ -27,7 +27,7 @@ Trabajo Práctico Integrador (TPI) de **Sistemas Operativos**: diseño del diagr
 | Sprint 1 (video) | ✅ Hecho |
 | Repositorio en GitHub | ✅ Hecho |
 | Definición del lenguaje | ✅ Hecho |
-| División de partes | ⏳ Pendiente |
+| División de partes | ✅ Hecho |
 | Código del simulador | ⏳ En curso |
 
 ## Reuniones
