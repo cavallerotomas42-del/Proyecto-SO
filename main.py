@@ -8,7 +8,7 @@ ruta = os.path.join(carpeta, "procesos_ejemplo.txt") # Aca solo cambien la exten
 procesos, errores = cargar_procesos(ruta)
 cola_nuevos = []
 
-clock = int(input("Ingrese el instante de clock: ")) # Aca va a tener que estar sincrozado con el modulo que se encarga de aumentar el clock.
+clock = int(input("Ingrese el instante de clock: ")) # EZE aca va a tener que estar sincrozado con el modulo que se encarga de aumentar el clock.
 
 
 admitidos = admitir_nuevos(procesos, cola_nuevos, clock)
